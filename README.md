@@ -113,6 +113,23 @@ Tools for building and deploying AI applications.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
   
+### 🎨 Multimedia AI Tools
 
+#### 🖼 Image
+- [ChatGPT-4o Image Generation](https://openai.com/chatgpt) — Integrated image creation with style control.
+- [Midjourney](https://www.midjourney.com/) — Artistic and photorealistic images and video.
+- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud.
+- [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
+- [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable images.
+
+#### 🎥 Video
+- [Kling](https://klingai.com/) — Cinematic, realistic video generation.
+- [Google Veo 3](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
+- [Runway](https://runwayml.com/) — Video editing + generation.
+
+#### 🎙 Audio
+- [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech.
+- [Suno](https://suno.ai/) — AI music from text prompts.
+- [Aiva](https://www.aiva.ai/) — Music composition for media.
 
 ---
